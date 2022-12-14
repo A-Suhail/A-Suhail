@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Amir Suhail
 - 👀 I’m interested in Robotics, IOT, AI, Full-Stack
-- 🌱 I’m currently learning Full-Stack and AI
+- 🌱 I’m currently learning AI
 - 📫 Reach me @ amir.suhail.2198@gmail.com
 
 <!---
