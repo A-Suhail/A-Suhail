@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Amir Suhail
-- 👀 I’m interested in Robotics, IOT, AI, Full-Stack
+- 👀 I’m interested in Robotics-IOT, AI/ML, Full-Stack Data Engineering
 - 📫 Reach me @ amir.suhail.2198@gmail.com
 
 <!---
